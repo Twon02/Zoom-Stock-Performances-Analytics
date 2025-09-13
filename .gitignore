@@ -1,0 +1,7 @@
+# .gitignore
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# keep outputs if you want images visible on GitHub; otherwise uncomment the next line
+# outputs/
